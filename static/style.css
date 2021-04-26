@@ -49,6 +49,7 @@
   margin: 15px 0 0;
   color: #ffffff;
   font-size: 20px;
+  overflow-wrap: break-word;
 }
 .form .message a {
   color: #4CAF50;
